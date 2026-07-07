@@ -1,5 +1,4 @@
 # SUNNER-TEXTBOOKS
-# SUNNER-TEXTBOOKS
 
 Professional textbook and workbook development repository for the Harman Sunner leadership, wellbeing and human-skills product ecosystem.
 
