@@ -20,6 +20,8 @@ Professional textbook and workbook development repository for the Harman Sunner 
 - `publishing/resilient-teams/publication-roadmap.md` — staged roadmap from editorial consolidation through launch readiness.
 - `packaged/resilient-teams/product-page.html` — static buyer-facing product page draft.
 - `packaged/resilient-teams/sample-chapter.html` — static sample chapter preview.
+- `publishing/resilient-teams/editorial-qa-checklist.md` — finalisation checklist for positioning, content quality, safeguarding and production readiness.
+- `packaged/resilient-teams/product-page.html` — static buyer-facing product page draft.
 
 ## Next-stage production assets
 
