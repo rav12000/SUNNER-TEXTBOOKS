@@ -6,6 +6,21 @@ Professional textbook and workbook development repository for the Harman Sunner 
 
 - `manuscripts/graduate-ready-human-skills.md` — complete commercial draft manuscript for **Graduate-Ready Human Skills: Communication, Resilience and Self-Leadership for the Future Workplace**.
 
+
+## Next commercial manuscript in build
+
+- `manuscripts/resilient-teams.md` — expanded 100+ page publisher-ready participant manual for **Resilient Teams: A Practical Training Manual for Adaptability, Grit and Trust**.
+- `assets/resilient-teams/facilitator-guide.md` — half-day/full-day delivery guide with scripts, activity instructions, group dynamics notes and HR boundary notes.
+- `assets/resilient-teams/team-charter-templates.md` — design-ready team charter worksheets covering values, communication, support, meetings, repair, boundaries and accountability rhythms.
+- `assets/resilient-teams/evaluation-form.md` — pre/post training evaluation and action commitment form.
+- `assets/resilient-teams/design-brief.md` — production design guidance for the participant manual, worksheets and digital/print exports.
+- `publishing/resilient-teams/editorial-qa-checklist.md` — finalisation checklist for positioning, content quality, safeguarding and production readiness.
+- `publishing/resilient-teams/worksheet-pack.md` — extracted design-ready participant worksheets and templates.
+- `publishing/resilient-teams/marketing-copy.md` — buyer-facing descriptions, back cover copy, metadata and sales email draft.
+- `publishing/resilient-teams/publication-roadmap.md` — staged roadmap from editorial consolidation through launch readiness.
+- `packaged/resilient-teams/product-page.html` — static buyer-facing product page draft.
+- `packaged/resilient-teams/sample-chapter.html` — static sample chapter preview.
+
 ## Next-stage production assets
 
 - `assets/graduate-ready-human-skills/facilitator-guide.md` — delivery guidance, scripts, session timing, adaptations and safeguarding notes.
