@@ -13,6 +13,13 @@ Professional textbook and workbook development repository for the Harman Sunner 
 - `assets/resilient-teams/facilitator-guide.md` — half-day/full-day delivery guide with scripts, activity instructions, group dynamics notes and HR boundary notes.
 - `assets/resilient-teams/team-charter-templates.md` — design-ready team charter worksheets covering values, communication, support, meetings, repair, boundaries and accountability rhythms.
 - `assets/resilient-teams/evaluation-form.md` — pre/post training evaluation and action commitment form.
+- `assets/resilient-teams/design-brief.md` — production design guidance for the participant manual, worksheets and digital/print exports.
+- `publishing/resilient-teams/editorial-qa-checklist.md` — finalisation checklist for positioning, content quality, safeguarding and production readiness.
+- `publishing/resilient-teams/worksheet-pack.md` — extracted design-ready participant worksheets and templates.
+- `publishing/resilient-teams/marketing-copy.md` — buyer-facing descriptions, back cover copy, metadata and sales email draft.
+- `publishing/resilient-teams/publication-roadmap.md` — staged roadmap from editorial consolidation through launch readiness.
+- `packaged/resilient-teams/product-page.html` — static buyer-facing product page draft.
+- `packaged/resilient-teams/sample-chapter.html` — static sample chapter preview.
 - `publishing/resilient-teams/editorial-qa-checklist.md` — finalisation checklist for positioning, content quality, safeguarding and production readiness.
 - `packaged/resilient-teams/product-page.html` — static buyer-facing product page draft.
 
