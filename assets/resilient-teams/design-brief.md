@@ -42,6 +42,10 @@ The manual should feel professional, grounded and commercially credible. It shou
 - Manager implementation roadmap.
 - Final publication checklist.
 
+## Page-count target
+
+The manuscript includes a 100+ page layout map estimating approximately 126 designed pages. Use generous worksheet spacing, module dividers, scenario panels and reflection pages to preserve participant usability rather than compressing the resource into a dense report.
+
 ## Export recommendations
 
 - Print PDF for participant manuals.

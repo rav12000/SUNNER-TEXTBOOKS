@@ -9,6 +9,7 @@ Professional textbook and workbook development repository for the Harman Sunner 
 
 ## Next commercial manuscript in build
 
+- `manuscripts/resilient-teams.md` — expanded 100+ page publisher-ready participant manual for **Resilient Teams: A Practical Training Manual for Adaptability, Grit and Trust**.
 - `manuscripts/resilient-teams.md` — working final draft participant manual for **Resilient Teams: A Practical Training Manual for Adaptability, Grit and Trust**.
 - `assets/resilient-teams/facilitator-guide.md` — half-day/full-day delivery guide with scripts, activity instructions, group dynamics notes and HR boundary notes.
 - `assets/resilient-teams/team-charter-templates.md` — design-ready team charter worksheets covering values, communication, support, meetings, repair, boundaries and accountability rhythms.
