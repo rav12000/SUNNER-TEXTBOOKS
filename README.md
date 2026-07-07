@@ -13,6 +13,19 @@ Professional textbook and workbook development repository for the Harman Sunner 
 - `assets/graduate-ready-human-skills/design-brief.md` — layout, accessibility and production handoff guidance.
 - `assets/graduate-ready-human-skills/institutional-adoption-pack.md` — adoption pathways, mapping worksheet, compliance review points and pilot evaluation prompts.
 
+## Publishing-stage assets
+
+- `publishing/graduate-ready-human-skills/editorial-qa-checklist.md` — review workflow and sign-off checklist for manuscript, wellbeing, employability, accessibility and commercial QA.
+- `publishing/graduate-ready-human-skills/worksheet-pack.md` — extracted student worksheets ready for design into a workbook or digital portfolio.
+- `publishing/graduate-ready-human-skills/marketing-copy.md` — buyer-facing descriptions, selling points, back cover copy, metadata and email announcement draft.
+- `publishing/graduate-ready-human-skills/publication-roadmap.md` — staged roadmap from editorial consolidation through launch package.
+
+## Packaged preview assets
+
+- `packaged/graduate-ready-human-skills/product-page.html` — static buyer-facing product page draft.
+- `packaged/graduate-ready-human-skills/sample-chapter.html` — static sample chapter preview with worksheet section.
+- `packaged/graduate-ready-human-skills/styles.css` — print-aware styling for preview pages.
+
 ## Source planning documents
 
 - `Harman_Sunner_Textbook_Product_Strategy_and_AI_Generation_Plan.docx` — strategic product ecosystem and audience plan.

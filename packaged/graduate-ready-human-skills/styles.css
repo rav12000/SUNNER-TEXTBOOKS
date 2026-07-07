@@ -1,0 +1,180 @@
+:root {
+  --navy: #14213d;
+  --green: #4f6f52;
+  --sand: #f4ead8;
+  --cream: #fffaf0;
+  --ink: #202124;
+  --muted: #5f6368;
+  --line: #d8d2c4;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--cream);
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.page {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 48px 24px;
+}
+
+.hero {
+  background: linear-gradient(135deg, var(--navy), #243b67);
+  color: var(--white);
+  border-radius: 28px;
+  padding: 56px;
+  margin-bottom: 32px;
+}
+
+.kicker {
+  color: #d9c89e;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.15;
+  color: var(--navy);
+}
+
+.hero h1,
+.hero h2 {
+  color: var(--white);
+}
+
+h1 {
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  margin: 0 0 16px;
+}
+
+h2 {
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+  margin-top: 48px;
+}
+
+.subtitle {
+  font-size: 1.35rem;
+  max-width: 760px;
+}
+
+.grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+
+.card,
+.callout,
+.worksheet {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: 0 8px 24px rgba(20, 33, 61, 0.06);
+}
+
+.callout {
+  border-left: 8px solid var(--green);
+}
+
+.worksheet {
+  background: #fffdf8;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  background: var(--white);
+}
+
+th,
+td {
+  border: 1px solid var(--line);
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: var(--sand);
+  color: var(--navy);
+}
+
+.badge {
+  display: inline-block;
+  background: var(--sand);
+  color: var(--navy);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-weight: 700;
+  margin: 4px 6px 4px 0;
+}
+
+.button-row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+
+.button {
+  display: inline-block;
+  background: var(--green);
+  color: var(--white);
+  padding: 12px 18px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.button.secondary {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+}
+
+.footer {
+  color: var(--muted);
+  border-top: 1px solid var(--line);
+  margin-top: 56px;
+  padding-top: 24px;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+
+  .page {
+    max-width: none;
+    padding: 24mm 18mm;
+  }
+
+  .hero,
+  .card,
+  .callout,
+  .worksheet {
+    box-shadow: none;
+  }
+
+  .button-row {
+    display: none;
+  }
+}
